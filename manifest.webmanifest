@@ -1,0 +1,13 @@
+{
+  "name": "SF BANGLADESH - হিসাব খাতা",
+  "short_name": "SF হিসাব",
+  "description": "গাড়ি ও ব্যক্তিগত হিসাব ব্যবস্থাপনার ওয়েব অ্যাপ",
+  "lang": "bn-BD",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#0f766e"
+}
